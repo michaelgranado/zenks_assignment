@@ -11,8 +11,8 @@ jwt = JWTManager(app)
 
 # Initialize a Boto3 session
 session = boto3.Session(
-    aws_access_key_id='AKIA2OQ37C5CSGETYDVD',
-    aws_secret_access_key='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',
+    aws_access_key_id='',
+    aws_secret_access_key='',
     region_name='us-east-1'
 )
 
